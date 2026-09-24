@@ -9,4 +9,5 @@ git add README.md
 
 git commit -m 'init README.md' 
 
+git status
 git log 
